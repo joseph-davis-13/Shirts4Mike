@@ -39,7 +39,7 @@ img, object, embed, video {
 	clear: both;
 	float: left;
 	margin-left: 0;
-	width: 100%;
+	width: 75%;
 	display: block;
 }
 #Products {
@@ -57,6 +57,13 @@ img, object, embed, video {
 	display: block;
 }
 #Mikeshirts {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#Nav {
 	clear: both;
 	float: left;
 	margin-left: 0;
@@ -76,7 +83,7 @@ img, object, embed, video {
 	clear: both;
 	float: left;
 	margin-left: 0;
-	width: 100%;
+	width: 90%;
 	display: block;
 }
 #Products {
@@ -94,6 +101,13 @@ img, object, embed, video {
 	display: block;
 }
 #Mikeshirts {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#Nav {
 	clear: both;
 	float: left;
 	margin-left: 0;
@@ -138,6 +152,13 @@ img, object, embed, video {
 	float: left;
 	margin-left: 0;
 	width: 100%;
+	display: block;
+}
+#Navs {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 69.3877%;
 	display: block;
 }
 }

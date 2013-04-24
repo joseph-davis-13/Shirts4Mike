@@ -3,16 +3,26 @@
 	"HTMLFileName":"index.html",
 	"pref__general__AutoKeyframePropertiesArmed":"false",
 	"symbol_stage":{
+		"element_body > div:nth-child(1) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2) > a:nth-child(1)":{
+			"timelineColor2":"0x107faa",
+			"animationEnabled":"false",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"},
+		"element_body > div:nth-child(1) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1) > a:nth-child(1)":{
+			"timelineColor2":"0x1095d2",
+			"animationEnabled":"false",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"},
 		"element_body > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1)":{
 			"timelineColor2":"0x81aa62",
 			"animationEnabled":"true",
 			"timelineColor3":"0x5b6c4d",
 			"timelineColor":"0x91c767"},
-		"element_${_content} > div:nth-child(2) > div:nth-child(1) > h2:nth-child(1)":{
-			"timelineColor2":"0x326a96",
+		"element_${_content} > div:nth-child(1) > div:nth-child(1) > img:nth-child(1)":{
+			"timelineColor2":"0x1aa38f",
 			"animationEnabled":"true",
-			"timelineColor3":"0x385063",
-			"timelineColor":"0x2f73ad"},
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
 		"element_body > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1) > a:nth-child(1)":{
 			"timelineColor2":"0xcbbd71",
 			"timelineColor3":"0x7b7652",
@@ -29,28 +39,31 @@
 			"animationEnabled":"false",
 			"timelineColor3":"0x2a605c",
 			"timelineColor":"0x00a096"},
-		"element_${_content} > div:nth-child(1) > div:nth-child(1) > img:nth-child(1)":{
-			"timelineColor2":"0x1aa38f",
+		"element_${_content} > div:nth-child(2) > div:nth-child(1) > h2:nth-child(1)":{
+			"timelineColor2":"0x326a96",
 			"animationEnabled":"true",
-			"timelineColor3":"0x2a6a61",
-			"timelineColor":"0x00bda4"}},
-	"TransitionIdCounter":"51",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"}},
+	"TransitionIdCounter":"174",
 	"CompZoomFactor":"98",
 	"StageZoomFactor":"100",
 	"pixelsPerMs":"0.2",
 	"usedBOM":"false",
-	"nextElementColorIndex":"7",
-	"stage-Default Timeline_playhead_ms":"995",
+	"nextElementColorIndex":"9",
+	"stage-Default Timeline_playhead_ms":"1995",
+	"viewStartY":"0",
+	"stage-Default Timeline_mark_ms":"-1",
 	"ModelData":"{\
 \"stage\": {\
    \"timelines\": {\
       \"Default Timeline\": {\
             \"ElementKeyframes\": {\
-                \"${_content} > div:nth-child(1) > div:nth-child(1) > img:nth-child(1)\": [], \
-                \"${_content} > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2)\": [], \
-                \"${_content} > div:nth-child(2) > div:nth-child(1) > h2:nth-child(1)\": [], \
                 \"${_content} > div:nth-child(1)\": [], \
-                \"body > div:nth-child(1)\": [], \
+                \"${_content} > div:nth-child(1) > div:nth-child(1) > img:nth-child(1)\": [], \
+                \"${_content} > div:nth-child(2) > div:nth-child(1) > h2:nth-child(1)\": [], \
+                \"${_content}\": [], \
+                \"body > div:nth-child(1) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2) > a:nth-child(1)\": [], \
+                \"body > div:nth-child(1) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1) > a:nth-child(1)\": [], \
                 \"body > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1)\": [], \
                 \"body > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1) > a:nth-child(1)\": []\
             }\
@@ -64,6 +77,4 @@
    \"timelines\": {\
 \
    }}\
-}",
-	"stage-Default Timeline_mark_ms":"-1",
-	"viewStartY":"0"}
+}"}
